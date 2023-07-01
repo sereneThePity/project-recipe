@@ -1,0 +1,14 @@
+body{
+    background-color: #80ced6;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:rgb(from color r g b);
+}
+
+.title{
+    text-align: center;
+}
